@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="submit">=</string>
+    <string name="add">+</string>
+    <string name="substract">-</string>
+    <string name="multiplication">x</string>
+    <string name="division">/</string>
+    <string name="clear">AC</string>
+    <string name="dot">.</string>
+    <string name="delete">DEL</string>
+</resources>
